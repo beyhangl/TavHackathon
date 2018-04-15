@@ -1,0 +1,16 @@
+Problem?
+Problem uçağı geç kalacak yolcuların önceden belirlenememesi.Bu belirlenmeme uçağın kalkması gereken saatten daha geç kalkmasına sebep oluyor.Buda rötarlara yol açmakta.Fakat uçağa geç kalacak yolcular önceden belirlenebilse,ona göre bir önlem alınarak zaman kazancı sağlanmış olur.
+Çözüm?
+Çözümümüz bu vakit kayıplarını minimuma indirmektir.Bunu havalimanı içerisinde yerleştirilmiş kameralar ile sağlamaktayız.Bunu sağlarken görüntü işleme tekniklerinden yüz tanımayı kullanarak kişilerin en son nerede olduklarını tespit ediyoruz.Tespit ettikten sonra uçağın kalkış saatine az bir süre kala,hesaplamalar yaparak yolcunun uçağa yetişip yetişemeyeceğini hesaplıyoruz.Eğer yolcu uçağa yetişemeyecek durumda ise uçağı erken kapatıp,erken uçuş yapıyoruz.Bu sayede sonraki uçuşlar için oluşabilecek rötar uzunluklarını azaltmış oluyoruz.
+
+
+Peki kaç kişi uçağı kaçırıyor,geç kalıyor normalde??
+
+Günlük ortalama 8 milyon kişi uçuyor.Bunlardan %5 denebilir.Fakat bu değişken bazen %10'da olabiliyor.Bu uçuşun olduğu saate göre değişebiliyor.Örneğin sabah saatlerinde bu uçak kaçırmaları daha fazla.
+
+
+Bizim sistemimiz ile kazanç ne olacak ?
+
+Sistemimizi kullanan havalimanı işletmecileri,bu sistemi havayollarına sağlayarak içeride olusan bir bilinmezin önüne geçmiş olacaklardır.Bunun ile beraber 
+
+
