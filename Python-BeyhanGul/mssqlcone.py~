@@ -3,7 +3,7 @@
 import pymssql
 import csv
 import time
-conn = pymssql.connect('xxxx', 'xxxx', 'xxxx', 'xxx')
+conn = pymssql.connect('94.73.145.8', 'OdiDbUser', 'KBhu85J9', 'OdiDb')
 cursor = conn.cursor()
 print('Mssql ok!')
 
@@ -33,7 +33,7 @@ def letscontrol(lokasyon,status,descr,tcno):
   print('test1')
   import pymssql
   print('test2')
-  conn = pymssql.connect('xxx', 'xxx', 'xxx', 'xxx')
+  conn = pymssql.connect('94.73.145.8', 'OdiDbUser', 'KBhu85J9', 'OdiDb')
   cursor = conn.cursor()
   print('test3')
   
